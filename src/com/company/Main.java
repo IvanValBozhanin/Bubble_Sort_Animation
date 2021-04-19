@@ -8,7 +8,7 @@ public class Main {
         JFrame frame = new JFrame();
         frame.setSize(400, 400);
         frame.add(new SortControl());
-        frame.setTitle("Sorty");
+        frame.setTitle("Bubble Sort Animation");
         frame.setLocationRelativeTo(null); // Center the frame
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
